@@ -4,6 +4,9 @@
 <h1 align="center">Hi 👋, I'm Akash Gothria</h1>
 <h3 align="center">Embracing the Unknown, Mastering the New: Constantly exploring and learning in the ever-changing world of technology.</h3>
 
+![image](https://github.com/askey678/askey678/assets/104381925/a596891c-cd7d-490a-aefc-aef0aa6e24ef)
+
+
 - 🔭 I’m currently working on [Blogging Application](https://github.com/askey678/Blogging-Application.git)
 
 - 🌱 I’m currently learning **Spring Security, Angular, React**
