@@ -1,4 +1,5 @@
-![image](https://github.com/askey678/askey678/assets/104381925/eba86743-4beb-4e9a-8324-ee96e9fc977d)
+![image](https://github.com/askey678/askey678/assets/104381925/0aaeea26-07b7-4021-8b0d-09e9c802d8ac)
+
 
 <h1 align="center">Hi 👋, I'm Akash Gothria</h1>
 <h3 align="center">Embracing the Unknown, Mastering the New: Constantly exploring and learning in the ever-changing world of technology.</h3>
